@@ -1,0 +1,53 @@
+{
+  "ui_font_size": 21,
+  "ui_font_weight": 500,
+  "buffer_font_weight": 500,
+  "buffer_font_size": 19,
+  "buffer_line_height": {
+    "custom": 2.2
+  },
+  "project_panel": {
+    "dock": "right"
+  },
+  "toolbar": {
+    "quick_actions": false,
+    "selections_menu": false,
+    "breadcrumbs": false
+  },
+  "features": {
+    "edit_prediction_provider": "zed"
+  },
+  "hide_mouse": "on_typing_and_movement",
+  "inlay_hints": {
+    "enabled": true
+  },
+  "telemetry": {
+    "metrics": false,
+    "diagnostics": false
+  },
+  "cursor_blink": false,
+  "tab_bar": {
+    "show": false
+  },
+  "scrollbar": {
+    "show": "never"
+  },
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware"
+  },
+  "preview_tabs": {
+    "enabled": false
+  },
+  "git": {
+    "git_gutter": "hide",
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark Pro"
+  }
+}
